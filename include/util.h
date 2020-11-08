@@ -56,5 +56,5 @@ double lowest (vector<double> nums);
  @Author: Ben Roberts
  @param text : Text to convert to camelCase
  */
-string camelCase (string text);
+string camelCase (string& text);
 #endif /* util_h */

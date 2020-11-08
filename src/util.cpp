@@ -45,7 +45,7 @@ double lowest (vector<double> nums)
     return retVal;
 }
 
-string camelCase (string text)
+string camelCase (string& text)
 {
     bool foundSpace = false;
     int index = 0;
